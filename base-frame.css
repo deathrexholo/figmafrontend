@@ -1,0 +1,23 @@
+.category {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  font-weight: 800;
+}
+.base-frame {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg) 24px 336px 13px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #0b6d1b;
+  font-family: var(--font-inter);
+}

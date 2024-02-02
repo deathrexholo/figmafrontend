@@ -1,0 +1,25 @@
+.frame-container-child {
+  position: absolute;
+  top: 19px;
+  left: 594px;
+  background-color: var(--color-white);
+  width: 5px;
+  height: 5px;
+  overflow: hidden;
+  display: none;
+}
+.grezo-banners-removebg-preview-icon {
+  position: absolute;
+  top: 6px;
+  left: 5px;
+  width: 142px;
+  height: 43px;
+  object-fit: cover;
+}
+.frame-container {
+  width: 100%;
+  height: 51px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
